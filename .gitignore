@@ -6,3 +6,6 @@ dist
 *.log
 .vite
 coverage
+
+# 由 scripts/copy-wasm.mjs 在构建时复制
+public/wasm/

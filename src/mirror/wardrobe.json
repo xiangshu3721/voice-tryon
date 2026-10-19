@@ -1,0 +1,2085 @@
+{
+ "version": 1,
+ "styles": {
+  "female": [
+   {
+    "id": "oldmoney",
+    "name": "老钱风",
+    "aliases": [
+     "老钱",
+     "静奢",
+     "现代诗人",
+     "高级感",
+     "质感",
+     "知性"
+    ],
+    "source": "淘宝教育《2026秋冬淘宝服饰白皮书》解读「现代诗人风」；逛淘宝「老钱风西装裤/阔腿裤」高销量"
+   },
+   {
+    "id": "newchinese",
+    "name": "新中式",
+    "aliases": [
+     "新中式",
+     "中式",
+     "国风",
+     "盘扣",
+     "马面",
+     "宋锦"
+    ],
+    "source": "逛淘宝「新中式轻商务」专题（2026-07）；天猫新中式搜索同比+100%（WWD China）"
+   },
+   {
+    "id": "plush",
+    "name": "美拉德绒感",
+    "aliases": [
+     "美拉德",
+     "绒感",
+     "软雾",
+     "毛茸茸",
+     "温暖",
+     "深焙棕",
+     "焦糖"
+    ],
+    "source": "淘宝白皮书「软雾绒系」、天猫白皮书「温暖绒感/时髦绒感」、女装关键色「深焙棕」"
+   },
+   {
+    "id": "romantic",
+    "name": "华丽浪漫",
+    "aliases": [
+     "浪漫",
+     "法式",
+     "约会",
+     "蝴蝶结",
+     "波点",
+     "丝绒",
+     "名流"
+    ],
+    "source": "天猫2026AW四大风格「华丽浪漫」、淘宝「华丽名流风」与「80年代浪漫：蝴蝶结/波点」元素"
+   },
+   {
+    "id": "snow",
+    "name": "雪后轻羽",
+    "aliases": [
+     "运动",
+     "户外",
+     "羽绒",
+     "滑雪",
+     "轻羽",
+     "雪",
+     "松弛",
+     "休闲"
+    ],
+    "source": "天猫白皮书「雪后轻羽」、淘天运动户外白皮书「松弛雪系」、泡芙/短款羽绒（知衣科技）"
+   },
+   {
+    "id": "sharp",
+    "name": "时髦通勤",
+    "aliases": [
+     "通勤",
+     "上班",
+     "职场",
+     "极简",
+     "干练",
+     "野心家",
+     "塑形",
+     "面试"
+    ],
+    "source": "淘宝白皮书「时髦野心家」、天猫「功能塑形/塑形主义：宽肩窄腰」"
+   }
+  ],
+  "male": [
+   {
+    "id": "quiet",
+    "name": "质感静奢",
+    "aliases": [
+     "老钱",
+     "静奢",
+     "质感",
+     "高级",
+     "商务",
+     "绅士"
+    ],
+    "source": "淘天运动户外白皮书「质感静奢」；淘宝/京东 2026 秋冬「老钱风 POLO 毛衣」新品"
+   },
+   {
+    "id": "maillard",
+    "name": "美拉德复古",
+    "aliases": [
+     "美拉德",
+     "棕色系",
+     "复古",
+     "秋天",
+     "麂皮",
+     "巧克力"
+    ],
+    "source": "识货社区 2026-09 美拉德棕夹克笔记；逛淘宝美拉德麂皮立领夹克高销量；男装关键色「巧克力软糖」"
+   },
+   {
+    "id": "newchinese",
+    "name": "新中式轻商务",
+    "aliases": [
+     "新中式",
+     "中式",
+     "国风",
+     "唐装",
+     "盘扣",
+     "立领"
+    ],
+    "source": "逛淘宝「新中式轻商务：唐装夹克+素色直筒裤+棉麻衬衫」专题（2026-07）"
+   },
+   {
+    "id": "outdoor",
+    "name": "户外游牧",
+    "aliases": [
+     "户外",
+     "冲锋衣",
+     "徒步",
+     "游牧",
+     "机能",
+     "运动",
+     "露营"
+    ],
+    "source": "淘天《2026秋冬运动户外鞋服趋势白皮书》「户外游牧：轻量冲锋衣、抓绒、防泼水登山裤」"
+   },
+   {
+    "id": "retro",
+    "name": "跃动复古",
+    "aliases": [
+     "美式",
+     "棒球",
+     "学院",
+     "街头",
+     "跃动",
+     "卫衣"
+    ],
+    "source": "淘天运动户外白皮书「跃动复古：复古棒球服」；Vogue 2026秋冬男装「纯白丹宁」"
+   },
+   {
+    "id": "cityk",
+    "name": "日韩轻野",
+    "aliases": [
+     "韩系",
+     "日系",
+     "日韩",
+     "轻野",
+     "工装",
+     "面包服"
+    ],
+    "source": "淘天运动户外白皮书「日韩轻野：工装羽绒服、工装裤」；男装关键色「陶土蓝」"
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "f-oldmoney-coat",
+   "name": "燕麦色双面呢大衣",
+   "gender": "female",
+   "style": "oldmoney",
+   "category": "outer",
+   "color": "oat",
+   "colorName": "燕麦色",
+   "length": "knee",
+   "keywords": [
+    "大衣",
+    "毛呢大衣",
+    "双面呢",
+    "长外套",
+    "宽肩"
+   ],
+   "image": "garments/f-oldmoney-coat.webp",
+   "size": {
+    "w": 398,
+    "h": 686
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0102
+    },
+    "shoulderL": {
+     "x": 0.2101,
+     "y": 0.1283
+    },
+    "shoulderR": {
+     "x": 0.7849,
+     "y": 0.1283
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.3557
+    },
+    "hipL": {
+     "x": 0.2388,
+     "y": 0.4951
+    },
+    "hipR": {
+     "x": 0.7561,
+     "y": 0.4951
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9854
+    }
+   }
+  },
+  {
+   "id": "f-oldmoney-knit",
+   "name": "奶白半高领羊绒衫",
+   "gender": "female",
+   "style": "oldmoney",
+   "category": "top",
+   "color": "cream",
+   "colorName": "奶白色",
+   "length": "hip",
+   "keywords": [
+    "羊绒衫",
+    "针织衫",
+    "毛衣",
+    "半高领",
+    "打底"
+   ],
+   "image": "garments/f-oldmoney-knit.webp",
+   "size": {
+    "w": 574,
+    "h": 691
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.013
+    },
+    "shoulderL": {
+     "x": 0.1994,
+     "y": 0.1505
+    },
+    "shoulderR": {
+     "x": 0.7867,
+     "y": 0.1505
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.4832
+    },
+    "hipL": {
+     "x": 0.2287,
+     "y": 0.6872
+    },
+    "hipR": {
+     "x": 0.7573,
+     "y": 0.6872
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9884
+    }
+   }
+  },
+  {
+   "id": "f-oldmoney-trousers",
+   "name": "浅灰垂感西装阔腿裤",
+   "gender": "female",
+   "style": "oldmoney",
+   "category": "bottom",
+   "color": "gray",
+   "colorName": "灰色",
+   "length": "ankle",
+   "keywords": [
+    "西装裤",
+    "西裤",
+    "阔腿裤",
+    "垂感裤",
+    "裤子"
+   ],
+   "image": "garments/f-oldmoney-trousers.webp",
+   "size": {
+    "w": 377,
+    "h": 648
+   },
+   "anchors": {
+    "waist": {
+     "x": 0.496,
+     "y": 0.0278
+    },
+    "waistL": {
+     "x": 0.2281,
+     "y": 0.0278
+    },
+    "waistR": {
+     "x": 0.7639,
+     "y": 0.0278
+    },
+    "hipL": {
+     "x": 0.1751,
+     "y": 0.1651
+    },
+    "hipR": {
+     "x": 0.8196,
+     "y": 0.1651
+    },
+    "hemL": {
+     "x": 0.0159,
+     "y": 0.9738
+    },
+    "hemR": {
+     "x": 0.9814,
+     "y": 0.9738
+    },
+    "hem": {
+     "x": 0.4987,
+     "y": 0.9738
+    }
+   }
+  },
+  {
+   "id": "f-chinese-jacket",
+   "name": "墨绿宋锦盘扣外套",
+   "gender": "female",
+   "style": "newchinese",
+   "category": "outer",
+   "color": "green",
+   "colorName": "墨绿色",
+   "length": "hip",
+   "keywords": [
+    "盘扣外套",
+    "宋锦",
+    "立领外套",
+    "外套",
+    "中式外套"
+   ],
+   "image": "garments/f-chinese-jacket.webp",
+   "size": {
+    "w": 669,
+    "h": 651
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0123
+    },
+    "shoulderL": {
+     "x": 0.2601,
+     "y": 0.1413
+    },
+    "shoulderR": {
+     "x": 0.7384,
+     "y": 0.1413
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.4765
+    },
+    "hipL": {
+     "x": 0.2841,
+     "y": 0.6819
+    },
+    "hipR": {
+     "x": 0.7144,
+     "y": 0.6819
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9585
+    }
+   }
+  },
+  {
+   "id": "f-chinese-top",
+   "name": "米白苎麻斜襟上衣",
+   "gender": "female",
+   "style": "newchinese",
+   "category": "top",
+   "color": "cream",
+   "colorName": "米白色",
+   "length": "hip",
+   "keywords": [
+    "斜襟",
+    "盘扣上衣",
+    "苎麻",
+    "衬衫",
+    "上衣",
+    "茶服"
+   ],
+   "image": "garments/f-chinese-top.webp",
+   "size": {
+    "w": 657,
+    "h": 646
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0186
+    },
+    "shoulderL": {
+     "x": 0.2452,
+     "y": 0.1331
+    },
+    "shoulderR": {
+     "x": 0.7518,
+     "y": 0.1331
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.4845
+    },
+    "hipL": {
+     "x": 0.2705,
+     "y": 0.6998
+    },
+    "hipR": {
+     "x": 0.7264,
+     "y": 0.6998
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9845
+    }
+   }
+  },
+  {
+   "id": "f-chinese-skirt",
+   "name": "酒红织金马面裙",
+   "gender": "female",
+   "style": "newchinese",
+   "category": "bottom",
+   "color": "burgundy",
+   "colorName": "酒红色",
+   "length": "calf",
+   "keywords": [
+    "马面裙",
+    "半裙",
+    "半身裙",
+    "长裙",
+    "裙子"
+   ],
+   "image": "garments/f-chinese-skirt.webp",
+   "size": {
+    "w": 605,
+    "h": 665
+   },
+   "anchors": {
+    "waist": {
+     "x": 0.4959,
+     "y": 0.0286
+    },
+    "waistL": {
+     "x": 0.2364,
+     "y": 0.0286
+    },
+    "waistR": {
+     "x": 0.7554,
+     "y": 0.0286
+    },
+    "hipL": {
+     "x": 0.1967,
+     "y": 0.1654
+    },
+    "hipR": {
+     "x": 0.7983,
+     "y": 0.1654
+    },
+    "hemL": {
+     "x": 0.0099,
+     "y": 0.9744
+    },
+    "hemR": {
+     "x": 0.9884,
+     "y": 0.9744
+    },
+    "hem": {
+     "x": 0.4992,
+     "y": 0.9744
+    }
+   }
+  },
+  {
+   "id": "f-plush-jacket",
+   "name": "深焙棕泰迪绒短外套",
+   "gender": "female",
+   "style": "plush",
+   "category": "outer",
+   "color": "brown",
+   "colorName": "棕色",
+   "length": "hip",
+   "keywords": [
+    "泰迪绒",
+    "羊羔毛",
+    "毛绒外套",
+    "短外套",
+    "外套"
+   ],
+   "image": "garments/f-plush-jacket.webp",
+   "size": {
+    "w": 540,
+    "h": 671
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0104
+    },
+    "shoulderL": {
+     "x": 0.1814,
+     "y": 0.1595
+    },
+    "shoulderR": {
+     "x": 0.8168,
+     "y": 0.1595
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.5082
+    },
+    "hipL": {
+     "x": 0.2131,
+     "y": 0.722
+    },
+    "hipR": {
+     "x": 0.785,
+     "y": 0.722
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.7854
+    }
+   }
+  },
+  {
+   "id": "f-plush-sweater",
+   "name": "焦糖麻花毛衣",
+   "gender": "female",
+   "style": "plush",
+   "category": "top",
+   "color": "camel",
+   "colorName": "焦糖色",
+   "length": "hip",
+   "keywords": [
+    "麻花毛衣",
+    "毛衣",
+    "针织衫",
+    "粗针"
+   ],
+   "image": "garments/f-plush-sweater.webp",
+   "size": {
+    "w": 615,
+    "h": 667
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0315
+    },
+    "shoulderL": {
+     "x": 0.2133,
+     "y": 0.1049
+    },
+    "shoulderR": {
+     "x": 0.7769,
+     "y": 0.1049
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.4593
+    },
+    "hipL": {
+     "x": 0.2415,
+     "y": 0.6765
+    },
+    "hipR": {
+     "x": 0.7487,
+     "y": 0.6765
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9415
+    }
+   }
+  },
+  {
+   "id": "f-plush-corduroy",
+   "name": "巧克力灯芯绒直筒裤",
+   "gender": "female",
+   "style": "plush",
+   "category": "bottom",
+   "color": "brown",
+   "colorName": "咖啡色",
+   "length": "ankle",
+   "keywords": [
+    "灯芯绒",
+    "直筒裤",
+    "裤子",
+    "长裤"
+   ],
+   "image": "garments/f-plush-corduroy.webp",
+   "size": {
+    "w": 356,
+    "h": 696
+   },
+   "anchors": {
+    "waist": {
+     "x": 0.4958,
+     "y": 0.0273
+    },
+    "waistL": {
+     "x": 0.1713,
+     "y": 0.0273
+    },
+    "waistR": {
+     "x": 0.8202,
+     "y": 0.0273
+    },
+    "hipL": {
+     "x": 0.118,
+     "y": 0.1652
+    },
+    "hipR": {
+     "x": 0.8792,
+     "y": 0.1652
+    },
+    "hemL": {
+     "x": 0.0169,
+     "y": 0.9741
+    },
+    "hemR": {
+     "x": 0.9803,
+     "y": 0.9741
+    },
+    "hem": {
+     "x": 0.4986,
+     "y": 0.9741
+    }
+   }
+  },
+  {
+   "id": "f-romantic-dress",
+   "name": "酒红丝绒蝴蝶结连衣裙",
+   "gender": "female",
+   "style": "romantic",
+   "category": "dress",
+   "color": "burgundy",
+   "colorName": "酒红色",
+   "length": "calf",
+   "keywords": [
+    "丝绒裙",
+    "蝴蝶结",
+    "连衣裙",
+    "裙子",
+    "长裙"
+   ],
+   "image": "garments/f-romantic-dress.webp",
+   "size": {
+    "w": 323,
+    "h": 690
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0145
+    },
+    "shoulderL": {
+     "x": 0.1814,
+     "y": 0.0754
+    },
+    "shoulderR": {
+     "x": 0.8124,
+     "y": 0.0754
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.2768
+    },
+    "hipL": {
+     "x": 0.2129,
+     "y": 0.4003
+    },
+    "hipR": {
+     "x": 0.7809,
+     "y": 0.4003
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9899
+    }
+   }
+  },
+  {
+   "id": "f-romantic-blouse",
+   "name": "蕾丝娃娃领白衬衫",
+   "gender": "female",
+   "style": "romantic",
+   "category": "top",
+   "color": "white",
+   "colorName": "白色",
+   "length": "hip",
+   "keywords": [
+    "蕾丝",
+    "娃娃领",
+    "泡泡袖",
+    "衬衫",
+    "白衬衫",
+    "上衣"
+   ],
+   "image": "garments/f-romantic-blouse.webp",
+   "size": {
+    "w": 653,
+    "h": 637
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0345
+    },
+    "shoulderL": {
+     "x": 0.2451,
+     "y": 0.1068
+    },
+    "shoulderR": {
+     "x": 0.7534,
+     "y": 0.1068
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.4622
+    },
+    "hipL": {
+     "x": 0.2705,
+     "y": 0.68
+    },
+    "hipR": {
+     "x": 0.728,
+     "y": 0.68
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9246
+    }
+   }
+  },
+  {
+   "id": "f-romantic-skirt",
+   "name": "黑白波点缎面半裙",
+   "gender": "female",
+   "style": "romantic",
+   "category": "bottom",
+   "color": "black",
+   "colorName": "黑白",
+   "length": "calf",
+   "keywords": [
+    "波点",
+    "缎面",
+    "半裙",
+    "半身裙",
+    "裙子"
+   ],
+   "image": "garments/f-romantic-skirt.webp",
+   "size": {
+    "w": 539,
+    "h": 613
+   },
+   "anchors": {
+    "waist": {
+     "x": 0.5,
+     "y": 0.0294
+    },
+    "waistL": {
+     "x": 0.256,
+     "y": 0.0294
+    },
+    "waistR": {
+     "x": 0.744,
+     "y": 0.0294
+    },
+    "hipL": {
+     "x": 0.2152,
+     "y": 0.1664
+    },
+    "hipR": {
+     "x": 0.7829,
+     "y": 0.1664
+    },
+    "hemL": {
+     "x": 0.1707,
+     "y": 0.9739
+    },
+    "hemR": {
+     "x": 0.8275,
+     "y": 0.9739
+    },
+    "hem": {
+     "x": 0.4991,
+     "y": 0.9739
+    }
+   }
+  },
+  {
+   "id": "f-snow-puffer",
+   "name": "粉底色短款泡芙羽绒服",
+   "gender": "female",
+   "style": "snow",
+   "category": "outer",
+   "color": "pink",
+   "colorName": "粉色",
+   "length": "hip",
+   "keywords": [
+    "羽绒服",
+    "泡芙羽绒",
+    "面包服",
+    "短款羽绒",
+    "外套"
+   ],
+   "image": "garments/f-snow-puffer.webp",
+   "size": {
+    "w": 628,
+    "h": 635
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0094
+    },
+    "shoulderL": {
+     "x": 0.2234,
+     "y": 0.1921
+    },
+    "shoulderR": {
+     "x": 0.7766,
+     "y": 0.1921
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.5653
+    },
+    "hipL": {
+     "x": 0.251,
+     "y": 0.794
+    },
+    "hipR": {
+     "x": 0.749,
+     "y": 0.794
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.8315
+    }
+   }
+  },
+  {
+   "id": "f-snow-fleece",
+   "name": "云白摇粒绒半拉链",
+   "gender": "female",
+   "style": "snow",
+   "category": "top",
+   "color": "white",
+   "colorName": "白色",
+   "length": "hip",
+   "keywords": [
+    "摇粒绒",
+    "抓绒",
+    "半拉链",
+    "卫衣",
+    "上衣"
+   ],
+   "image": "garments/f-snow-fleece.webp",
+   "size": {
+    "w": 516,
+    "h": 654
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0092
+    },
+    "shoulderL": {
+     "x": 0.1878,
+     "y": 0.1743
+    },
+    "shoulderR": {
+     "x": 0.8045,
+     "y": 0.1743
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.5061
+    },
+    "hipL": {
+     "x": 0.2186,
+     "y": 0.7095
+    },
+    "hipR": {
+     "x": 0.7736,
+     "y": 0.7095
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9297
+    }
+   }
+  },
+  {
+   "id": "f-snow-flare",
+   "name": "黑色高腰喇叭瑜伽裤",
+   "gender": "female",
+   "style": "snow",
+   "category": "bottom",
+   "color": "black",
+   "colorName": "黑色",
+   "length": "ankle",
+   "keywords": [
+    "喇叭裤",
+    "瑜伽裤",
+    "运动裤",
+    "裤子"
+   ],
+   "image": "garments/f-snow-flare.webp",
+   "size": {
+    "w": 357,
+    "h": 658
+   },
+   "anchors": {
+    "waist": {
+     "x": 0.5,
+     "y": 0.0274
+    },
+    "waistL": {
+     "x": 0.2465,
+     "y": 0.0274
+    },
+    "waistR": {
+     "x": 0.7535,
+     "y": 0.0274
+    },
+    "hipL": {
+     "x": 0.1933,
+     "y": 0.1657
+    },
+    "hipR": {
+     "x": 0.8067,
+     "y": 0.1657
+    },
+    "hemL": {
+     "x": 0.0168,
+     "y": 0.9742
+    },
+    "hemR": {
+     "x": 0.9804,
+     "y": 0.9742
+    },
+    "hem": {
+     "x": 0.4986,
+     "y": 0.9742
+    }
+   }
+  },
+  {
+   "id": "f-sharp-blazer",
+   "name": "黑色宽肩收腰西装",
+   "gender": "female",
+   "style": "sharp",
+   "category": "outer",
+   "color": "black",
+   "colorName": "黑色",
+   "length": "hip",
+   "keywords": [
+    "西装",
+    "西装外套",
+    "西服",
+    "宽肩",
+    "外套"
+   ],
+   "image": "garments/f-sharp-blazer.webp",
+   "size": {
+    "w": 507,
+    "h": 657
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0107
+    },
+    "shoulderL": {
+     "x": 0.1633,
+     "y": 0.1065
+    },
+    "shoulderR": {
+     "x": 0.8367,
+     "y": 0.1065
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.461
+    },
+    "hipL": {
+     "x": 0.197,
+     "y": 0.6782
+    },
+    "hipR": {
+     "x": 0.803,
+     "y": 0.6782
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9361
+    }
+   }
+  },
+  {
+   "id": "f-sharp-shirt",
+   "name": "白色廓形衬衫",
+   "gender": "female",
+   "style": "sharp",
+   "category": "top",
+   "color": "white",
+   "colorName": "白色",
+   "length": "hip",
+   "keywords": [
+    "衬衫",
+    "白衬衫",
+    "衬衣",
+    "上衣"
+   ],
+   "image": "garments/f-sharp-shirt.webp",
+   "size": {
+    "w": 588,
+    "h": 632
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0127
+    },
+    "shoulderL": {
+     "x": 0.2466,
+     "y": 0.1345
+    },
+    "shoulderR": {
+     "x": 0.7483,
+     "y": 0.1345
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.4528
+    },
+    "hipL": {
+     "x": 0.2717,
+     "y": 0.6479
+    },
+    "hipR": {
+     "x": 0.7232,
+     "y": 0.6479
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9858
+    }
+   }
+  },
+  {
+   "id": "f-sharp-wideleg",
+   "name": "黑色高腰阔腿裤",
+   "gender": "female",
+   "style": "sharp",
+   "category": "bottom",
+   "color": "black",
+   "colorName": "黑色",
+   "length": "ankle",
+   "keywords": [
+    "阔腿裤",
+    "西装裤",
+    "西裤",
+    "裤子",
+    "长裤"
+   ],
+   "image": "garments/f-sharp-wideleg.webp",
+   "size": {
+    "w": 380,
+    "h": 657
+   },
+   "anchors": {
+    "waist": {
+     "x": 0.5013,
+     "y": 0.0274
+    },
+    "waistL": {
+     "x": 0.2368,
+     "y": 0.0274
+    },
+    "waistR": {
+     "x": 0.7658,
+     "y": 0.0274
+    },
+    "hipL": {
+     "x": 0.1816,
+     "y": 0.1659
+    },
+    "hipR": {
+     "x": 0.8237,
+     "y": 0.1659
+    },
+    "hemL": {
+     "x": 0.0158,
+     "y": 0.9741
+    },
+    "hemR": {
+     "x": 0.9816,
+     "y": 0.9741
+    },
+    "hem": {
+     "x": 0.4987,
+     "y": 0.9741
+    }
+   }
+  },
+  {
+   "id": "m-quiet-coat",
+   "name": "驼色羊毛大衣",
+   "gender": "male",
+   "style": "quiet",
+   "category": "outer",
+   "color": "camel",
+   "colorName": "驼色",
+   "length": "knee",
+   "keywords": [
+    "大衣",
+    "羊毛大衣",
+    "长外套",
+    "外套"
+   ],
+   "image": "garments/m-quiet-coat.webp",
+   "size": {
+    "w": 404,
+    "h": 681
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0103
+    },
+    "shoulderL": {
+     "x": 0.1784,
+     "y": 0.1145
+    },
+    "shoulderR": {
+     "x": 0.8191,
+     "y": 0.1145
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.3738
+    },
+    "hipL": {
+     "x": 0.2104,
+     "y": 0.5327
+    },
+    "hipR": {
+     "x": 0.7871,
+     "y": 0.5327
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9883
+    }
+   }
+  },
+  {
+   "id": "m-quiet-polo",
+   "name": "浅杏POLO领针织衫",
+   "gender": "male",
+   "style": "quiet",
+   "category": "top",
+   "color": "beige",
+   "colorName": "杏色",
+   "length": "hip",
+   "keywords": [
+    "polo",
+    "POLO",
+    "针织衫",
+    "毛衣",
+    "翻领"
+   ],
+   "image": "garments/m-quiet-polo.webp",
+   "size": {
+    "w": 629,
+    "h": 674
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0134
+    },
+    "shoulderL": {
+     "x": 0.2105,
+     "y": 0.135
+    },
+    "shoulderR": {
+     "x": 0.7847,
+     "y": 0.135
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.5005
+    },
+    "hipL": {
+     "x": 0.2392,
+     "y": 0.7245
+    },
+    "hipR": {
+     "x": 0.756,
+     "y": 0.7245
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9555
+    }
+   }
+  },
+  {
+   "id": "m-quiet-trousers",
+   "name": "炭灰羊毛西裤",
+   "gender": "male",
+   "style": "quiet",
+   "category": "bottom",
+   "color": "gray",
+   "colorName": "灰色",
+   "length": "ankle",
+   "keywords": [
+    "西裤",
+    "西装裤",
+    "羊毛裤",
+    "裤子",
+    "长裤"
+   ],
+   "image": "garments/m-quiet-trousers.webp",
+   "size": {
+    "w": 350,
+    "h": 649
+   },
+   "anchors": {
+    "waist": {
+     "x": 0.5029,
+     "y": 0.0277
+    },
+    "waistL": {
+     "x": 0.1286,
+     "y": 0.0277
+    },
+    "waistR": {
+     "x": 0.8771,
+     "y": 0.0277
+    },
+    "hipL": {
+     "x": 0.0886,
+     "y": 0.1649
+    },
+    "hipR": {
+     "x": 0.92,
+     "y": 0.1649
+    },
+    "hemL": {
+     "x": 0.0171,
+     "y": 0.9738
+    },
+    "hemR": {
+     "x": 0.98,
+     "y": 0.9738
+    },
+    "hem": {
+     "x": 0.4986,
+     "y": 0.9738
+    }
+   }
+  },
+  {
+   "id": "m-maillard-jacket",
+   "name": "美拉德麂皮哈灵顿夹克",
+   "gender": "male",
+   "style": "maillard",
+   "category": "outer",
+   "color": "brown",
+   "colorName": "棕色",
+   "length": "hip",
+   "keywords": [
+    "麂皮",
+    "哈灵顿",
+    "夹克",
+    "立领夹克",
+    "外套"
+   ],
+   "image": "garments/m-maillard-jacket.webp",
+   "size": {
+    "w": 618,
+    "h": 653
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0092
+    },
+    "shoulderL": {
+     "x": 0.2154,
+     "y": 0.1577
+    },
+    "shoulderR": {
+     "x": 0.7749,
+     "y": 0.1577
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.5188
+    },
+    "hipL": {
+     "x": 0.2434,
+     "y": 0.7401
+    },
+    "hipR": {
+     "x": 0.7469,
+     "y": 0.7401
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.8959
+    }
+   }
+  },
+  {
+   "id": "m-maillard-waffle",
+   "name": "奶白华夫格亨利衫",
+   "gender": "male",
+   "style": "maillard",
+   "category": "top",
+   "color": "cream",
+   "colorName": "奶白色",
+   "length": "hip",
+   "keywords": [
+    "华夫格",
+    "亨利衫",
+    "长袖T恤",
+    "t恤",
+    "T恤",
+    "打底"
+   ],
+   "image": "garments/m-maillard-waffle.webp",
+   "size": {
+    "w": 645,
+    "h": 634
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0284
+    },
+    "shoulderL": {
+     "x": 0.2229,
+     "y": 0.123
+    },
+    "shoulderR": {
+     "x": 0.7709,
+     "y": 0.123
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.5032
+    },
+    "hipL": {
+     "x": 0.2503,
+     "y": 0.7363
+    },
+    "hipR": {
+     "x": 0.7435,
+     "y": 0.7363
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.989
+    }
+   }
+  },
+  {
+   "id": "m-maillard-corduroy",
+   "name": "深棕灯芯绒直筒裤",
+   "gender": "male",
+   "style": "maillard",
+   "category": "bottom",
+   "color": "brown",
+   "colorName": "棕色",
+   "length": "ankle",
+   "keywords": [
+    "灯芯绒",
+    "直筒裤",
+    "裤子",
+    "长裤"
+   ],
+   "image": "garments/m-maillard-corduroy.webp",
+   "size": {
+    "w": 346,
+    "h": 664
+   },
+   "anchors": {
+    "waist": {
+     "x": 0.4986,
+     "y": 0.0286
+    },
+    "waistL": {
+     "x": 0.1301,
+     "y": 0.0286
+    },
+    "waistR": {
+     "x": 0.8671,
+     "y": 0.0286
+    },
+    "hipL": {
+     "x": 0.0867,
+     "y": 0.1657
+    },
+    "hipR": {
+     "x": 0.9162,
+     "y": 0.1657
+    },
+    "hemL": {
+     "x": 0.0173,
+     "y": 0.9744
+    },
+    "hemR": {
+     "x": 0.9798,
+     "y": 0.9744
+    },
+    "hem": {
+     "x": 0.4986,
+     "y": 0.9744
+    }
+   }
+  },
+  {
+   "id": "m-chinese-jacket",
+   "name": "黑色盘扣唐装夹克",
+   "gender": "male",
+   "style": "newchinese",
+   "category": "outer",
+   "color": "black",
+   "colorName": "黑色",
+   "length": "hip",
+   "keywords": [
+    "唐装",
+    "盘扣",
+    "立领夹克",
+    "夹克",
+    "外套"
+   ],
+   "image": "garments/m-chinese-jacket.webp",
+   "size": {
+    "w": 574,
+    "h": 655
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0092
+    },
+    "shoulderL": {
+     "x": 0.2096,
+     "y": 0.1557
+    },
+    "shoulderR": {
+     "x": 0.7939,
+     "y": 0.1557
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.505
+    },
+    "hipL": {
+     "x": 0.2388,
+     "y": 0.719
+    },
+    "hipR": {
+     "x": 0.7647,
+     "y": 0.719
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9893
+    }
+   }
+  },
+  {
+   "id": "m-chinese-shirt",
+   "name": "白色立领棉麻衬衫",
+   "gender": "male",
+   "style": "newchinese",
+   "category": "top",
+   "color": "white",
+   "colorName": "白色",
+   "length": "hip",
+   "keywords": [
+    "立领衬衫",
+    "棉麻",
+    "亚麻衬衫",
+    "衬衫",
+    "上衣"
+   ],
+   "image": "garments/m-chinese-shirt.webp",
+   "size": {
+    "w": 580,
+    "h": 615
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.013
+    },
+    "shoulderL": {
+     "x": 0.2196,
+     "y": 0.1398
+    },
+    "shoulderR": {
+     "x": 0.7786,
+     "y": 0.1398
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.4994
+    },
+    "hipL": {
+     "x": 0.2476,
+     "y": 0.7197
+    },
+    "hipR": {
+     "x": 0.7507,
+     "y": 0.7197
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9886
+    }
+   }
+  },
+  {
+   "id": "m-chinese-trousers",
+   "name": "黑色垂感直筒裤",
+   "gender": "male",
+   "style": "newchinese",
+   "category": "bottom",
+   "color": "black",
+   "colorName": "黑色",
+   "length": "ankle",
+   "keywords": [
+    "直筒裤",
+    "垂感裤",
+    "裤子",
+    "长裤",
+    "阔腿裤"
+   ],
+   "image": "garments/m-chinese-trousers.webp",
+   "size": {
+    "w": 364,
+    "h": 657
+   },
+   "anchors": {
+    "waist": {
+     "x": 0.5,
+     "y": 0.0274
+    },
+    "waistL": {
+     "x": 0.1538,
+     "y": 0.0274
+    },
+    "waistR": {
+     "x": 0.8462,
+     "y": 0.0274
+    },
+    "hipL": {
+     "x": 0.1126,
+     "y": 0.1659
+    },
+    "hipR": {
+     "x": 0.8901,
+     "y": 0.1659
+    },
+    "hemL": {
+     "x": 0.0165,
+     "y": 0.9741
+    },
+    "hemR": {
+     "x": 0.9808,
+     "y": 0.9741
+    },
+    "hem": {
+     "x": 0.4986,
+     "y": 0.9741
+    }
+   }
+  },
+  {
+   "id": "m-outdoor-shell",
+   "name": "垂柳绿轻量冲锋衣",
+   "gender": "male",
+   "style": "outdoor",
+   "category": "outer",
+   "color": "green",
+   "colorName": "绿色",
+   "length": "hip",
+   "keywords": [
+    "冲锋衣",
+    "风衣",
+    "软壳",
+    "夹克",
+    "外套"
+   ],
+   "image": "garments/m-outdoor-shell.webp",
+   "size": {
+    "w": 606,
+    "h": 649
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0092
+    },
+    "shoulderL": {
+     "x": 0.236,
+     "y": 0.1834
+    },
+    "shoulderR": {
+     "x": 0.764,
+     "y": 0.1834
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.5195
+    },
+    "hipL": {
+     "x": 0.2624,
+     "y": 0.7256
+    },
+    "hipR": {
+     "x": 0.7376,
+     "y": 0.7256
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9599
+    }
+   }
+  },
+  {
+   "id": "m-outdoor-fleece",
+   "name": "燕麦抓绒半拉链",
+   "gender": "male",
+   "style": "outdoor",
+   "category": "top",
+   "color": "oat",
+   "colorName": "燕麦色",
+   "length": "hip",
+   "keywords": [
+    "抓绒",
+    "摇粒绒",
+    "半拉链",
+    "卫衣",
+    "上衣"
+   ],
+   "image": "garments/m-outdoor-fleece.webp",
+   "size": {
+    "w": 685,
+    "h": 675
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0104
+    },
+    "shoulderL": {
+     "x": 0.2197,
+     "y": 0.1748
+    },
+    "shoulderR": {
+     "x": 0.7671,
+     "y": 0.1748
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.5537
+    },
+    "hipL": {
+     "x": 0.2471,
+     "y": 0.7859
+    },
+    "hipR": {
+     "x": 0.7398,
+     "y": 0.7859
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9541
+    }
+   }
+  },
+  {
+   "id": "m-outdoor-pants",
+   "name": "黑色防泼水登山裤",
+   "gender": "male",
+   "style": "outdoor",
+   "category": "bottom",
+   "color": "black",
+   "colorName": "黑色",
+   "length": "ankle",
+   "keywords": [
+    "登山裤",
+    "机能裤",
+    "运动裤",
+    "裤子"
+   ],
+   "image": "garments/m-outdoor-pants.webp",
+   "size": {
+    "w": 348,
+    "h": 663
+   },
+   "anchors": {
+    "waist": {
+     "x": 0.4971,
+     "y": 0.0287
+    },
+    "waistL": {
+     "x": 0.0862,
+     "y": 0.0287
+    },
+    "waistR": {
+     "x": 0.908,
+     "y": 0.0287
+    },
+    "hipL": {
+     "x": 0.0402,
+     "y": 0.1659
+    },
+    "hipR": {
+     "x": 0.9569,
+     "y": 0.1659
+    },
+    "hemL": {
+     "x": 0.0287,
+     "y": 0.9744
+    },
+    "hemR": {
+     "x": 0.954,
+     "y": 0.9744
+    },
+    "hem": {
+     "x": 0.4914,
+     "y": 0.9744
+    }
+   }
+  },
+  {
+   "id": "m-retro-varsity",
+   "name": "藏青复古棒球服",
+   "gender": "male",
+   "style": "retro",
+   "category": "outer",
+   "color": "navy",
+   "colorName": "藏青色",
+   "length": "hip",
+   "keywords": [
+    "棒球服",
+    "棒球夹克",
+    "夹克",
+    "外套"
+   ],
+   "image": "garments/m-retro-varsity.webp",
+   "size": {
+    "w": 646,
+    "h": 665
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0105
+    },
+    "shoulderL": {
+     "x": 0.2253,
+     "y": 0.1609
+    },
+    "shoulderR": {
+     "x": 0.7685,
+     "y": 0.1609
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.5208
+    },
+    "hipL": {
+     "x": 0.2525,
+     "y": 0.7413
+    },
+    "hipR": {
+     "x": 0.7413,
+     "y": 0.7413
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9218
+    }
+   }
+  },
+  {
+   "id": "m-retro-hoodie",
+   "name": "麻灰连帽卫衣",
+   "gender": "male",
+   "style": "retro",
+   "category": "top",
+   "color": "gray",
+   "colorName": "灰色",
+   "length": "hip",
+   "keywords": [
+    "卫衣",
+    "连帽卫衣",
+    "帽衫",
+    "上衣"
+   ],
+   "image": "garments/m-retro-hoodie.webp",
+   "size": {
+    "w": 672,
+    "h": 674
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0089
+    },
+    "shoulderL": {
+     "x": 0.2963,
+     "y": 0.2493
+    },
+    "shoulderR": {
+     "x": 0.7007,
+     "y": 0.2493
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.5242
+    },
+    "hipL": {
+     "x": 0.3165,
+     "y": 0.6928
+    },
+    "hipR": {
+     "x": 0.6805,
+     "y": 0.6928
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9688
+    }
+   }
+  },
+  {
+   "id": "m-retro-whitejeans",
+   "name": "纯白宽松牛仔裤",
+   "gender": "male",
+   "style": "retro",
+   "category": "bottom",
+   "color": "white",
+   "colorName": "白色",
+   "length": "ankle",
+   "keywords": [
+    "牛仔裤",
+    "白牛仔",
+    "丹宁",
+    "裤子"
+   ],
+   "image": "garments/m-retro-whitejeans.webp",
+   "size": {
+    "w": 447,
+    "h": 665
+   },
+   "anchors": {
+    "waist": {
+     "x": 0.5,
+     "y": 0.0286
+    },
+    "waistL": {
+     "x": 0.1812,
+     "y": 0.0286
+    },
+    "waistR": {
+     "x": 0.8188,
+     "y": 0.0286
+    },
+    "hipL": {
+     "x": 0.1387,
+     "y": 0.1654
+    },
+    "hipR": {
+     "x": 0.8613,
+     "y": 0.1654
+    },
+    "hemL": {
+     "x": 0.0134,
+     "y": 0.9744
+    },
+    "hemR": {
+     "x": 0.9843,
+     "y": 0.9744
+    },
+    "hem": {
+     "x": 0.4989,
+     "y": 0.9744
+    }
+   }
+  },
+  {
+   "id": "m-korean-puffer",
+   "name": "黑色工装面包服",
+   "gender": "male",
+   "style": "cityk",
+   "category": "outer",
+   "color": "black",
+   "colorName": "黑色",
+   "length": "hip",
+   "keywords": [
+    "面包服",
+    "羽绒服",
+    "工装羽绒",
+    "短款羽绒",
+    "外套"
+   ],
+   "image": "garments/m-korean-puffer.webp",
+   "size": {
+    "w": 727,
+    "h": 615
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0098
+    },
+    "shoulderL": {
+     "x": 0.2357,
+     "y": 0.2065
+    },
+    "shoulderR": {
+     "x": 0.7657,
+     "y": 0.2065
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.6338
+    },
+    "hipL": {
+     "x": 0.2622,
+     "y": 0.8956
+    },
+    "hipR": {
+     "x": 0.7392,
+     "y": 0.8956
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9772
+    }
+   }
+  },
+  {
+   "id": "m-korean-denimshirt",
+   "name": "陶土蓝做旧牛仔衬衫",
+   "gender": "male",
+   "style": "cityk",
+   "category": "top",
+   "color": "blue",
+   "colorName": "蓝色",
+   "length": "hip",
+   "keywords": [
+    "牛仔衬衫",
+    "衬衫",
+    "丹宁",
+    "上衣"
+   ],
+   "image": "garments/m-korean-denimshirt.webp",
+   "size": {
+    "w": 629,
+    "h": 659
+   },
+   "anchors": {
+    "neck": {
+     "x": 0.5,
+     "y": 0.0106
+    },
+    "shoulderL": {
+     "x": 0.2242,
+     "y": 0.1366
+    },
+    "shoulderR": {
+     "x": 0.7711,
+     "y": 0.1366
+    },
+    "waist": {
+     "x": 0.5,
+     "y": 0.4926
+    },
+    "hipL": {
+     "x": 0.2515,
+     "y": 0.7108
+    },
+    "hipR": {
+     "x": 0.7437,
+     "y": 0.7108
+    },
+    "hem": {
+     "x": 0.5,
+     "y": 0.9894
+    }
+   }
+  },
+  {
+   "id": "m-korean-cargo",
+   "name": "卡其宽松工装裤",
+   "gender": "male",
+   "style": "cityk",
+   "category": "bottom",
+   "color": "khaki",
+   "colorName": "卡其色",
+   "length": "ankle",
+   "keywords": [
+    "工装裤",
+    "工装",
+    "阔腿裤",
+    "裤子"
+   ],
+   "image": "garments/m-korean-cargo.webp",
+   "size": {
+    "w": 446,
+    "h": 674
+   },
+   "anchors": {
+    "waist": {
+     "x": 0.5,
+     "y": 0.0282
+    },
+    "waistL": {
+     "x": 0.1816,
+     "y": 0.0282
+    },
+    "waistR": {
+     "x": 0.8184,
+     "y": 0.0282
+    },
+    "hipL": {
+     "x": 0.1345,
+     "y": 0.1647
+    },
+    "hipR": {
+     "x": 0.8677,
+     "y": 0.1647
+    },
+    "hemL": {
+     "x": 0.0135,
+     "y": 0.9748
+    },
+    "hemR": {
+     "x": 0.9843,
+     "y": 0.9748
+    },
+    "hem": {
+     "x": 0.4989,
+     "y": 0.9748
+    }
+   }
+  }
+ ]
+}
