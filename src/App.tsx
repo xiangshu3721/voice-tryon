@@ -9,7 +9,14 @@ import { CLOSET_TABS, closetTab, garmentsFor } from './wardrobe/catalog'
 import { outfitSummary, wornLines } from './wardrobe/view'
 import { formatWhen, type SavedLook } from './storage/looks'
 
-export default function App() {
+export interface AppProps {
+  /** 回到摄像头镜子模式（支持摄像头时才有） */
+  onMirror?: () => void
+  /** 为什么现在是插画模式 */
+  notice?: string
+}
+
+export default function App({ onMirror, notice }: AppProps = {}) {
   const studio = useStudio()
   const { session } = studio
   const lines = wornLines(session.gender, session.outfit)
@@ -36,8 +43,18 @@ export default function App() {
           <button type="button" className="quiet" aria-pressed={studio.speakReplies} onClick={studio.toggleSpeak}>
             {studio.speakReplies ? '朗读开' : '朗读关'}
           </button>
+          {onMirror && (
+            <button type="button" className="quiet" data-testid="to-mirror" onClick={onMirror}>
+              镜子模式
+            </button>
+          )}
         </div>
       </header>
+      {notice && (
+        <p className="mode-notice" role="status" data-testid="mode-notice">
+          {notice}
+        </p>
+      )}
 
       <main className="workspace">
         <section className={`stage-wrap ${studio.phase === 'listening' ? 'is-listening' : ''}`} aria-label="模特预览">

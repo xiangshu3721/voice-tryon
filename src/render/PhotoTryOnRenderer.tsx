@@ -15,7 +15,13 @@ export function PhotoTryOnRenderer({ gender }: { gender: Gender; outfit: Outfit 
   )
 }
 
-export type TryOnRendererId = 'svg-layers' | 'photo-ai'
+/**
+ * 试穿渲染器：
+ * - mirror-live：摄像头实时镜子（默认，见 src/mirror/MirrorStage.tsx）
+ * - svg-layers：插画假人分层（不支持摄像头或用户选择时的兜底，保留）
+ * - photo-ai / ai-tryon：真人 AI 试穿，接口见 AiTryOnRenderer.ts，默认关闭
+ */
+export type TryOnRendererId = 'mirror-live' | 'svg-layers' | 'photo-ai' | 'ai-tryon'
 
-/** 默认插画分层。改成 photo-ai 会走到占位，不会偷偷请求外部模型。 */
+/** 插画模式里的渲染器。改成 photo-ai 会走到占位，不会偷偷请求外部模型。 */
 export const ACTIVE_TRYON_RENDERER: TryOnRendererId = 'svg-layers'
